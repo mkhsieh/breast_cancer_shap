@@ -4,6 +4,7 @@ This project builds a binary classifier for breast cancer diagnosis using the `s
 
 ## Features
 - Logistic Regression, tree-Based (Random Forest, XGBoost, LightGBM) Models, and Neural network (Multi-Layer Perceptron; MLP) model
+- SMOTE oversampling for class imbalance
 - SHAP explainability with summary and force plots
 - Clean modular Python code + Jupyter notebook
 
