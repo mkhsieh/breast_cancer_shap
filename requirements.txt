@@ -9,3 +9,4 @@ torch
 xgboost
 lightgbm
 shap
+imblearn
