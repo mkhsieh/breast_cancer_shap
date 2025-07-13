@@ -1,0 +1,11 @@
+
+jupyterlab
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+torch
+xgboost
+lightgbm
+shap
